@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ideas
+.vscode
+.idea
+
+# Script for setting env variables
+.config_env
